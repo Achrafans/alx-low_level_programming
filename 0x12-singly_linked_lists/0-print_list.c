@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include "lists.h"
+
 /**
  * 0print_list.c
- * */
+ */
+
 size_t print_list(const list_t *h)
 {
 	size_t a = 0;
